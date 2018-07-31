@@ -1,2 +1,1 @@
-# adaptableblotter-angular
-This will be a wrapper for angular...
+This is the Angular wrapper for the Adaptable Blotter.
